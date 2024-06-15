@@ -6,6 +6,8 @@ A QR code generator built using Python and the Tkinter GUI library. This project
 
 
 
-Run in cmd: pip install qrcode
+Run in terminal: 
+
+* pip install qrcode
 
 ![qr](https://github.com/janithScript/QrCode-Generator/assets/127806197/3146ac41-e564-4655-938e-04b056a585e2)
