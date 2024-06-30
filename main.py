@@ -7,7 +7,6 @@ root.geometry("1000x550")
 root.config(bg="#AE2321")
 root.resizable(False, False)
 
-
 #icon
 image_icon=PhotoImage(file="icon.png")
 root.iconphoto(False,image_icon)
