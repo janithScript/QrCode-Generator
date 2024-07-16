@@ -7,8 +7,10 @@ A QR code generator built using Python and the Tkinter GUI library. This project
 
 
 Run in terminal: 
-
-* pip install qrcode
+```bash
+pip install qrcode
+```
+#
 
 
 
