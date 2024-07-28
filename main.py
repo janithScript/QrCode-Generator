@@ -11,7 +11,6 @@ root.resizable(False, False)
 image_icon=PhotoImage(file="icon.png")
 root.iconphoto(False,image_icon)
 
-
 def genarate():
     name=title.get()
     text=entry.get()
