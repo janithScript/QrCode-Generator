@@ -25,8 +25,6 @@ Image_view=Label(root,bg="#AE2321")
 Image_view.pack(padx=50,pady=10,side=RIGHT)
 
 
-
-
 Label(root,text="Title", fg="white", bg="#AE2321",font=15).place(x=50,y=170)
 
 title=Entry(root,width=13,font="arial 15")
